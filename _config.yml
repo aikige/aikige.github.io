@@ -33,6 +33,7 @@
 theme: minima
 plugins:
   - jekyll-feed
+adsense_client_id: ca-pub-9466084318094329
 
 # Exclude from processing.
 # The following items will not be processed, by default.
